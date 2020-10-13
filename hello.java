@@ -1,3 +1,6 @@
 class hello
-line2
-line3
+{
+	public static void main()
+	{
+		system.out.println("hello")
+}
